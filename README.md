@@ -1,1 +1,2 @@
-# gentoo-consolefont-symbols
+# personal gentoo linux repository
+# consolefont-symbols
